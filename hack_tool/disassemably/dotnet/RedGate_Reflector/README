@@ -1,0 +1,24 @@
+.NET Reflector 是 RedGate的一套功能强大的dotnet反编译工具,在7版本是免费的,7开始收费
+其界面很清爽没有多余的功能,插件功能非常强大
+
+有很多非常好的插件
+其默认没有修改代码的能力,但是插件可以做到
+而且大多插件是开源的
+
+官网:http://www.red-gate.com/products/dotnet-development/reflector/
+网上还有6.x免费版本,一般的插件都提供6.x和最新版插件
+
+另外一些可供选择的免费dotnet反编译工具
+
+Common Compiler Infrastructure (CCI)
+http://cciast.codeplex.com/
+mono Cecil
+http://www.mono-project.com/Cecil
+ILSpy
+http://wiki.sharpdevelop.net/ILSpy.ashx
+Dotnet IL Editor (DILE)
+http://sourceforge.net/projects/dile/
+IL.View
+https://github.com/DenisVuyka/IL.View
+Resharp
+http://www.jetbrains.com/resharper/?dotpeek

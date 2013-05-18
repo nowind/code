@@ -1,0 +1,4 @@
+Wireshark 一个开源的功能非常强大网络包分析工具
+能分析几乎所有的网络包
+win下使用需winpcap支持,不能分析环回网口
+www.wireshark.org/
