@@ -1,0 +1,3 @@
+wpe是利用hook win sockt api实现抓包封包功能的软件
+在vista以上系统中运行须管理员权限
+其主要hook send sendto revc revcfrom 四个函数实现抓包封包
